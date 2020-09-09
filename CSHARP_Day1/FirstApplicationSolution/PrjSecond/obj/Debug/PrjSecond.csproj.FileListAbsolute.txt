@@ -1,0 +1,7 @@
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\bin\Debug\PrjSecond.exe.config
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\bin\Debug\PrjSecond.exe
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\bin\Debug\PrjSecond.pdb
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\obj\Debug\PrjSecond.csprojAssemblyReference.cache
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\obj\Debug\PrjSecond.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\obj\Debug\PrjSecond.exe
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\PrjSecond\obj\Debug\PrjSecond.pdb

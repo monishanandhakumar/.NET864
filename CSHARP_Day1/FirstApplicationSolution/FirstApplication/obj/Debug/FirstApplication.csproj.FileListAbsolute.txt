@@ -1,0 +1,7 @@
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe.config
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.pdb
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.exe
+D:\Online Training\LTI\Sep2020\C#\Day1\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.pdb

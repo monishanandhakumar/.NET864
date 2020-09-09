@@ -1,0 +1,77 @@
+1.unique constraint , in which cluster --
+2.alter index indexname on tblname disable
+3.alter index indexname on tblname rebuild
+
+
+
+
+.Net framework
+CLR-Managed code ,Unmanged code
+CLS-CTS
+
+visual studio 2017--IDE
+
+Types of application in .net
+1.Console --cmd, COnsole
+2.Windows --calculator,winform,WPF
+3.Web Application --Asp.net,Asp.netMvc
+4.Mobile --Xamarine
+
+--In side one solution 
+    a number projects can be created
+
+NameSpace  == Package in java
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+C# --OOPS
+
+  object class
+    |
+    \
+     System
+
+Difference between read,readline,readkey
+
+Type Conversion:
+
+Implicit Conversion
+int sum
+float avg=sum;
+
+
+Explicit Conversion
+float avg;
+int sum = avg //Error
+
+
+Boxing-->Converting Value type to Reference Type 
+          float,int double-->string,object
+
+UnBoxing-->Coverting Reference type to Value Type
+                string,class,object    int,float,
+
+Array:
+Collection similar or homogeneous datatype   
+
+1.Single dimensional
+
+2.Multi dimensional 
+
+3.Jagged Array
+
+
+
+
+
+
+
+
+
+
+
+
+

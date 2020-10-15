@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F93F8822-FB39-4345-B2AA-45F4DA990D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingEg", "ExceptionHandlingEg\ExceptionHandlingEg.csproj", "{8738F6DB-3D61-40F8-9D59-C7C45FB6769F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93F8822-FB39-4345-B2AA-45F4DA990D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93F8822-FB39-4345-B2AA-45F4DA990D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93F8822-FB39-4345-B2AA-45F4DA990D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93F8822-FB39-4345-B2AA-45F4DA990D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8738F6DB-3D61-40F8-9D59-C7C45FB6769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8738F6DB-3D61-40F8-9D59-C7C45FB6769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8738F6DB-3D61-40F8-9D59-C7C45FB6769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8738F6DB-3D61-40F8-9D59-C7C45FB6769F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95206AB6-E24A-4290-AAF4-B2F82B2DF505}
+	EndGlobalSection
+EndGlobal

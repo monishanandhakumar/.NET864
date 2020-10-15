@@ -1,0 +1,7 @@
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\bin\Debug\MethodEg.exe.config
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\bin\Debug\MethodEg.exe
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\bin\Debug\MethodEg.pdb
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\obj\Debug\MethodEg.csprojAssemblyReference.cache
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\obj\Debug\MethodEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\obj\Debug\MethodEg.exe
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\MethodEg\obj\Debug\MethodEg.pdb

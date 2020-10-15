@@ -1,0 +1,7 @@
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+D:\Online Training\LTI\Sep2020\C#\Day3\CSHARPDay3\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb

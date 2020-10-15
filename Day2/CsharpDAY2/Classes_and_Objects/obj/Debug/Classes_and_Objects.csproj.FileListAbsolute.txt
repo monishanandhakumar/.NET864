@@ -1,0 +1,7 @@
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\bin\Debug\Classes_and_Objects.exe.config
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\bin\Debug\Classes_and_Objects.exe
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\bin\Debug\Classes_and_Objects.pdb
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\obj\Debug\Classes_and_Objects.csprojAssemblyReference.cache
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\obj\Debug\Classes_and_Objects.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\obj\Debug\Classes_and_Objects.exe
+D:\Online Training\LTI\Sep2020\C#\Day2\CsharpDAY2\Classes_and_Objects\obj\Debug\Classes_and_Objects.pdb

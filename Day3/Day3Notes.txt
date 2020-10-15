@@ -1,0 +1,65 @@
+Access Specifier or Access Modifier
+
+1.Private- default access specifier for variable and Methods ,Constructor
+2.Internal-default access specifier for class is internal
+Can access any where in same namespace
+3.Protected
+4.Internal Protected
+5.Public-  any where
+
+Static:
+
+Cant create object 
+ it can be accessed by class name
+
+garbage collection -->CLR
+
+can a abstract class inherit another abstract class 
+
+Interface :
+property,Methods,Events
+
+when both interface have same method name
+it is not mandatiory to implement the method twice
+
+Abstract    		Interface
+
+Non-abstract		all methods are abstract by 			default
+0-100% abstraction	100% abstract
+			Multiple Inheritance
+It can contains static  It cannot contains static  
+Member                   Member
+		
+
+ReadOnly			Constant
+----------			---------
+readonly key word 		Constant Keyword
+Runtime Constant		CompileTime Constant
+readonly fields can be changed  cant be changed
+assign values in declaration and  only in declaration
+constructor
+can be used with static          cant be used with 				         static 
+
+Exception Handling
+--problem that arises during the execution of your program
+
+System.Exception 
+
+Types:
+SystemException
+ApplicationException
+
+Keywords:
+try{}
+catch{}
+finally{}
+throw
+
+
+
+
+
+
+
+
+
